@@ -333,7 +333,7 @@ SlideDeck.prototype.loadConfig_ = function(config) {
 
       html = [p.name, p.company].join('<br>');
 
-      var email = p.email ? '<span>email</span><a href="mailto:' + p.email +
+      var email = p.email ? '<span>email</span><a target="_self" href="mailto:' + p.email +
           '">' + p.email + '</a>' : '';
 
       var gplus = p.gplus ? '<span>g+</span><a href="' + p.gplus +
