@@ -334,7 +334,8 @@ ul {
   position: relative;
 
   li {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.75em;
+	line-height: 30px;
 
     ul {
       margin-left: 2em;
@@ -1081,3 +1082,6 @@ aside.gdbar {
     font-family: monospace !important;
   }
 }
+
+h4 { margin: 0 0 20px; }
+strong { font-weight: bold; }
