@@ -1,7 +1,7 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'SEO Optimization',
+    title: 'Search Engine Optimization',
     subtitle: 'With Google Analytics &amp; Webmaster Tools',
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
